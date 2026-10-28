@@ -1,0 +1,6 @@
+Thêm đoạn sau vào ios/Runner/Info.plist (bên trong thẻ <dict> ngoài cùng):
+
+<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>tel</string>
+</array>

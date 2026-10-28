@@ -1,0 +1,20 @@
+name: quan_ly_danh_ba
+description: Ứng dụng Quản lý danh bạ liên hệ (Flutter, dữ liệu lưu trong bộ nhớ).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
